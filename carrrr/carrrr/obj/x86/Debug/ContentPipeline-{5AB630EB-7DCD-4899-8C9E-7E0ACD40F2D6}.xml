@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Modele\UserCar1\car1.FBX</Source>
+      <Name>Modele\UserCar1\car1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\bin\x86\Debug\Content\Modele\UserCar1\car1.xnb</Output>
+      <Time>2014-08-03T18:46:59.9332328+03:00</Time>
+      <Dependency>
+        <Key>c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\obj\x86\Debug\Modele\UserCar1\car1_0.xml</Key>
+        <Value>2015-02-18T21:12:08.3521667+03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Modele\UserCar1\firstCircle.FBX</Source>
+      <Name>Modele\UserCar1\firstCircle</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\bin\x86\Debug\Content\Modele\UserCar1\firstCircle.xnb</Output>
+      <Time>2014-08-03T18:46:59.9582342+03:00</Time>
+      <Dependency>
+        <Key>c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\obj\x86\Debug\Modele\UserCar1\firstCircle_0.xml</Key>
+        <Value>2015-02-18T21:12:08.7841914+03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Modele\UserCar1\firstCircleLeft.FBX</Source>
+      <Name>Modele\UserCar1\firstCircleLeft</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\bin\x86\Debug\Content\Modele\UserCar1\firstCircleLeft.xnb</Output>
+      <Time>2014-08-03T18:46:59.9612344+03:00</Time>
+      <Dependency>
+        <Key>c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\obj\x86\Debug\Modele\UserCar1\firstCircleLeft_0.xml</Key>
+        <Value>2015-02-18T21:12:08.8851972+03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Modele\UserCar1\firstCircleRight.FBX</Source>
+      <Name>Modele\UserCar1\firstCircleRight</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\bin\x86\Debug\Content\Modele\UserCar1\firstCircleRight.xnb</Output>
+      <Time>2014-08-03T18:46:59.9642346+03:00</Time>
+      <Dependency>
+        <Key>c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\obj\x86\Debug\Modele\UserCar1\firstCircleRight_0.xml</Key>
+        <Value>2015-02-18T21:12:08.9862029+03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Modele\UserCar1\lastCircle.FBX</Source>
+      <Name>Modele\UserCar1\lastCircle</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\bin\x86\Debug\Content\Modele\UserCar1\lastCircle.xnb</Output>
+      <Time>2014-08-03T18:46:59.9662347+03:00</Time>
+      <Dependency>
+        <Key>c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\obj\x86\Debug\Modele\UserCar1\lastCircle_0.xml</Key>
+        <Value>2015-02-18T21:12:09.1062098+03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Modele\UserCar1\skillet.FBX</Source>
+      <Name>Modele\UserCar1\skillet</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\bin\x86\Debug\Content\Modele\UserCar1\skillet.xnb</Output>
+      <Time>2014-08-03T18:46:59.9872359+03:00</Time>
+      <Dependency>
+        <Key>c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\obj\x86\Debug\Modele\UserCar1\skillet_0.xml</Key>
+        <Value>2015-02-18T21:12:09.2242166+03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Modele\UserCar1\car1.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\obj\x86\Debug\Modele\UserCar1\car1_0.xml</Output>
+      <Time>2014-08-03T18:46:59.9332328+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Modele\UserCar1\firstCircle.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\obj\x86\Debug\Modele\UserCar1\firstCircle_0.xml</Output>
+      <Time>2014-08-03T18:46:59.9582342+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Modele\UserCar1\firstCircleLeft.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\obj\x86\Debug\Modele\UserCar1\firstCircleLeft_0.xml</Output>
+      <Time>2014-08-03T18:46:59.9612344+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Modele\UserCar1\firstCircleRight.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\obj\x86\Debug\Modele\UserCar1\firstCircleRight_0.xml</Output>
+      <Time>2014-08-03T18:46:59.9642346+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Modele\UserCar1\lastCircle.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\obj\x86\Debug\Modele\UserCar1\lastCircle_0.xml</Output>
+      <Time>2014-08-03T18:46:59.9662347+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Modele\UserCar1\skillet.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\obj\x86\Debug\Modele\UserCar1\skillet_0.xml</Output>
+      <Time>2014-08-03T18:46:59.9872359+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{5AB630EB-7DCD-4899-8C9E-7E0ACD40F2D6}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrrContent\</RootDirectory>
+      <LoggerRootDirectory>c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T15:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T15:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T15:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T15:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T15:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T15:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-01-07T16:10:59.998686+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

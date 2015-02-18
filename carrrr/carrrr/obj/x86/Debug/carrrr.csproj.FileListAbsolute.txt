@@ -1,0 +1,23 @@
+C:\Media\proj\carrrr\carrrr\carrrr\bin\x86\Debug\carrrr.exe
+C:\Media\proj\carrrr\carrrr\carrrr\bin\x86\Debug\carrrr.pdb
+C:\Media\proj\carrrr\carrrr\carrrr\obj\x86\Debug\carrrr.csprojResolveAssemblyReference.cache
+C:\Media\proj\carrrr\carrrr\carrrr\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Media\proj\carrrr\carrrr\carrrr\obj\x86\Debug\carrrr.exe
+C:\Media\proj\carrrr\carrrr\carrrr\obj\x86\Debug\carrrr.pdb
+C:\Media\proj\carrrr\carrrr\carrrr\bin\x86\Debug\Content\Modele\UserCar1\car1.xnb
+C:\Media\proj\carrrr\carrrr\carrrr\bin\x86\Debug\Content\Modele\UserCar1\firstCircle.xnb
+C:\Media\proj\carrrr\carrrr\carrrr\bin\x86\Debug\Content\Modele\UserCar1\firstCircleLeft.xnb
+C:\Media\proj\carrrr\carrrr\carrrr\bin\x86\Debug\Content\Modele\UserCar1\firstCircleRight.xnb
+C:\Media\proj\carrrr\carrrr\carrrr\bin\x86\Debug\Content\Modele\UserCar1\lastCircle.xnb
+C:\Media\proj\carrrr\carrrr\carrrr\bin\x86\Debug\Content\Modele\UserCar1\skillet.xnb
+c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\bin\x86\Debug\Content\Modele\UserCar1\car1.xnb
+c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\bin\x86\Debug\Content\Modele\UserCar1\firstCircle.xnb
+c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\bin\x86\Debug\Content\Modele\UserCar1\firstCircleLeft.xnb
+c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\bin\x86\Debug\Content\Modele\UserCar1\firstCircleRight.xnb
+c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\bin\x86\Debug\Content\Modele\UserCar1\lastCircle.xnb
+c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\bin\x86\Debug\Content\Modele\UserCar1\skillet.xnb
+c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\bin\x86\Debug\carrrr.exe
+c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\bin\x86\Debug\carrrr.pdb
+c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\obj\x86\Debug\carrrr.exe
+c:\Media\My Project\C#\proj\XNA\my\carrrr\carrrr\carrrr\obj\x86\Debug\carrrr.pdb
